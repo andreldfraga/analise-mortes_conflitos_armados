@@ -1,0 +1,22 @@
+# Arquivos e pastas do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Notebooks Jupyter
+.ipynb_checkpoints/
+
+# Dados e saídas
+data/
+reports/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Outros
+.DS_Store
+Thumbs.db
