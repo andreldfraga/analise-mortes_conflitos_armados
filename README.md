@@ -25,7 +25,8 @@ A análise busca identificar padrões temporais, regionais e comparativos, além
 ## 🚀 Como Executar o Projeto
 
 ```bash
-# 1. Baixar o arquivo mortes-por-conflitos-armados.ipynb
+# 1. Baixar o arquivo
+mortes-por-conflitos-armados.ipynb
 
 # 2. Instalar as dependências
 pip install -r requirements.txt
